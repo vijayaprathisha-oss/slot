@@ -35,7 +35,7 @@ Execute the program using runserver command.
     <body>
         <img src="logo.png" width="650" height="150">
         <table border="5" cellspacing="4" >
-            <caption>TIME TABLE</caption>
+            <caption>TIME TABLE:Vijayaprathisha J (25008497)</caption>
             <tr>
                 <th bgcolor="lightgreen">DATE/TIME</th>
                 <th bgcolor="lightgreen">MONDAY</th>
@@ -92,25 +92,27 @@ Execute the program using runserver command.
             <tr>
                 <td>1.</td>
                 <td>19AI414</td>
-                <td>Fundamental of Web Application</td>
+                <td>Fundamental of Web Application(FWAD)</td>
             </tr>
             <tr>
                 <td>2.</td>
                 <td>19AI301</td>
-                <td>Python Programming</td>
+                <td>Python Programming(PY)</td>
             </tr>
             <tr>
                 <td>3.</td>
                 <td>19EN101</td>
-                <td>Communicative English</td>
+                <td>Communicative English(CE)</td>
             </tr>
         </table>
     </body>
+
+
 </html>
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (28).png>)
 
+![alt text](<Screenshot (31).png>)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
